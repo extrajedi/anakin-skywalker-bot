@@ -61,4 +61,6 @@ client.on("message", msg => {
 
 
 //log in with token
+//log in with token
+
 client.login(process.env.BOT_TOKEN);
